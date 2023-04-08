@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MD FARHAD HOSSAIN</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+    <meta name="title" content="MD FARHAD HOSSAIN">
+<meta name="description" content="MD FARHAD HOSSAIN IS BANGLADESHI NETWORK ENGINEER,  BANGLADESHI NETWORK ENGINEER, CLOUD NETWORK ENGINEER MD FARHAD HOSSAIN ">
+<meta name="keywords" content="network engineer, cloud network engineer , bangladeshi network engineer, bangladesi cloud network engnieer ">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+</head>
+
+<body>
+    <div id="mobile-menu-open" class="shadow-large">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <!-- End #mobile-menu-toggle -->
+    <header>
+        <div id="mobile-menu-close">
+            <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <ul id="menu" class="shadow">
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+                <a href="#experience">Experience</a>
+            </li>
+            <li>
+                <a href="#education">Education</a>
+            </li>
+            <li>
+                <a href="#projects">Projects</a>
+            </li>
+            <li>
+                <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </header>
+    <!-- End header -->
+
+    <div id="lead">
+        <div id="lead-content">
+            <h1>MD. FARHAD HOSSAIN</h1>
+            <h2>Cloud Network Engineer</h2>
+            <a href="#" class="btn-rounded-white">Download Resume</a>
+        </div>
+        <!-- End #lead-content -->
+
+        <div id="lead-overlay"></div>
+
+        <div id="lead-down">
+            <span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+            </span>
+        </div>
+        <!-- End #lead-down -->
+    </div>
+    <!-- End #lead -->
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h2 class="heading">Short Of Me</h2>
+                </div>
+                <div class="col-md-8">
+                    <p>
+                        I've Pursued my Diploma In Engineering from <strong>Feni Govt Computer Institute</strong> and now i'm serving since 2023 First February  as Executive-IT in Cityscape International Limited.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End #about -->
+
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Experience</h2>
+        <div id="experience-timeline">
+	<div data-date="First February 2023 - Current">
+	<h3>CityScape International Limited </h3>
+	<h4>Executive - IT</h4>
+	<p>Here I Need to check Day to day server monitoring, Attendance Server Monitoring, Daily Reporiting, IT Inventory Updating, Users Computer Trobleshoting, Mikrotik Server Maintance, NAS Server Maintance </p>
+	<p style="font-weight:bold;">Gulshan Avenue 53, Cityscape Tower, Dhaka.</p>
+				</div>  
+            <div data-date="First February 2022 - 31 Januray 2023">
+                <h3>Integrated Business Systems & Solutions Pvt Ltd, Dhaka</h3>
+                <h4>NOC Executive</h4>
+                <p>
+                    Data Center Monitoring as per client Bandwidth Ratio, Network operations center (NOC) administrators manage, oversee, and supervise telecommunications networks. A network operations center (NOC) is a centralized location from where networks of large organizations are monitored. It is the place where decisions are taken for troubleshooting a network, routers are managed, and a network’s performance is monitored from.
+                </p>
+		<p style="font-weight: bold;">Ali Bhaban,Kawran Bazar, Dhaka.</p>
+            </div>
+		
+            <div data-date="Decembar 2021 - 31 January 2022">
+                <h3>Adel Online Technology</h3>
+                <h4>Support Engnieer </h4>
+                <p>
+                    A Reputed ISP Where I worked as a Support Engnieer. </p>
+		<p style="font-weight:bold;">Uttara Sector 6, Dhaka.</p> 
+            </div>
+
+          
+        </div>
+    </div>
+    <!-- End #experience -->
+
+    <div id="education">
+        <h2 class="heading">Education</h2>
+        <div class="education-block">
+            <h3>Feni Govt Computer Institute</h3>
+            <span class="education-date">Aug 2017 - Dec 2021</span>
+            <h4>Data Telecommunications And Networking Technology </h4>
+            <p>
+                Feni Govt Computer Institute is Only One IT based Comouter Institute. Where I Complated My Diploma In Engnieering.
+            </p>
+        </div>
+        <!-- End .education-block -->
+
+        <div class="education-block">
+            <h3>Moheshpur Azizia High School</h3>
+            <span class="education-date">Jan 2011 - Mar 2017</span>
+            <h4>Bachelor of Science in Computer Science</h4>
+            <ul>
+                <li>
+                    Moheshpur Azizia High School Is  Secoundary School Where I Complated my Secoundary School Certification 
+                </li>
+               
+            </ul>
+        </div>
+        <!-- End .education-block -->
+    </div>
+    <!-- End #education -->
+
+    <div id="projects" class="background-alt">
+        <h2 class="heading">Projects</h2>
+        <div class="container">
+            <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project.jpg" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Mobile Analytics Server</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project.jpg" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Big Data Analyzer in Laravel.</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+            </div>
+        </div>
+    </div>
+    <!-- End #projects -->
+
+    <div id="skills">
+        <h2 class="heading">Skills</h2>
+        <ul>
+            <li>AWS</li>
+            <li>Google Console</li>
+            <li>CI/CD Pipeline</li>
+            <li>Github</li>
+            <li>Jekins</li>
+            <li>Docker</li>
+            <li>Gitlab</li>
+            <li>Virtural Server</li>
+            <li>RDP, RMTP, WebRTC</li>
+            <li>VPN</li>
+            <li>MikroTik(MTCNA)</li>
+            <li>Multiple Routing Protocals</li>
+            <li>VPS</li>
+            <li>MySQL</li>
+            <li>Cyberpanel</li>
+            <li>WHMCS</li>
+            <li>DNS</li>
+            <li>Nginx</li>
+            <li>Apache</li>
+            <li>Linux Server</li>
+            <li>VMware</li>
+            <li>Server Management</li>
+           
+        </ul>
+    </div>
+    <!-- End #skills -->
+
+    <div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/farhad.lep@email.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 copyright">
+                    <p>
+                        Copyright &copy; <span id="current-year">2023</span> MD. FARHAD HOSSAIN
+                    </p>
+                </div>
+                <div class="col-sm-2 top">
+                    <span id="to-top">
+                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                    </span>
+                </div>
+                <div class="col-sm-5 social">
+                    <ul>
+                        <li>
+                            <a href="https://github.com/nafacoder" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://www.linkedin.com/in/md-farhad-hossain-810014155/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/farhad2415" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                       
+                        <li>
+                            <a href="https://www.google.com/search?q=01882878428" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/scripts.min.js"></script>
+</body>
+
+</html>
